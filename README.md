@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @komal-gupta-27
-- 👀 I’m interested in  android app development
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in  software development 
+- 🌱 I’m currently learning python
+- 📫 How to reach me ... komalgupta27272727@gmail.com
+- 😄 Pronouns: she/her
 
 <!---
 komal-gupta-27/komal-gupta-27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
