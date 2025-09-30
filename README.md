@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @komal-gupta-27
 - 👀 I’m interested in  software development 
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning java full stack
 - 📫 How to reach me ... komalgupta27272727@gmail.com
 - 😄 Pronouns: she/her
 
